@@ -11,6 +11,7 @@
 <style>
 html,body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
 .it,.en {display:none;}
+.w3-main {display:none;}
 </style>
 </head>
 <body class="w3-light-grey">
@@ -207,6 +208,11 @@ console.log(GetURLParameter('lang'))
 if (GetURLParameter('lang') == 'en'){$(".it").hide(); $(".en").show();}
 if (GetURLParameter('lang') == 'it'){$(".en").hide(); $(".it").show();}
 
+
+$(window).ready(function() {
+		// Animate loader off screen
+		$(".w3-main").fadeIn("slow");;
+	});
 
 </script>
 <hr>

@@ -51,6 +51,11 @@ if (GetURLParameter('lang') == 'en'){$(".it").hide(); $(".en").show();}
 if (GetURLParameter('lang') == 'it'){$(".en").hide(); $(".it").show();}
 
 
+$(window).ready(function() {
+		// Animate loader off screen
+		$(".w3-main").fadeIn("slow");;
+	});
+
 </script>
 <hr>
 <hr>
