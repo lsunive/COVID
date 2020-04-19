@@ -22,7 +22,7 @@ categories: searches
 </div>
 
 
-<div class="w3-white w3-card-4 w3-center w3-padding" style="height:900px">
+<div class="w3-white w3-card-4 w3-center w3-padding" style="height:900px; width: 1000px;">
     {% include figures/ranks_lite.html %}
 </div>
 
