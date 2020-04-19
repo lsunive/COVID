@@ -20,7 +20,7 @@ It is also interesting to see how the google searches of `Coronavirus` spread th
 </div>
 
 
-<div class="w3-white w3-card-4 w3-center w3-padding" >
+<div class="w3-white w3-card-4 w3-center" >
     {% include figures/map.html %}
 </div>
 
