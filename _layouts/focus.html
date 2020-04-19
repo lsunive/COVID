@@ -1,25 +1,21 @@
-<!DOCTYPE html>
-<html>
+{% include head.html %}
+{% include top_bar.html %}
+{% include side_bar.html %}
+  <div class="w3-main" style="margin-left:300px;margin-top:43px;">
 
-  {% include head.html %}
 
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
+      {{ content }}
 
+      {% for p in site.pages %}
+      {% if p.categories == page.categories and p.name != page.name%}
       <hr>
-{% for p in site.pages %}
-
-{% if p.categories == page.categories and p.name != page.name%}
-+{{p.name}}+++{{p.path}}<br>
-{% endif %}
-{% endfor %}
+      <div class="w3-container">
+      {{p.content}}
+      </div>
+      {% endif %}
+      {% endfor %}
 
     </div>
+  </div>
 
-{% include lang_sel.html %}
-
-  </body>
-
-</html>
+{% include end.html %}

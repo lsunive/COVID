@@ -1,19 +1,8 @@
-<!DOCTYPE html>
-<html>
+{% include head.html %}
+{% include top_bar.html %}
+{% include side_bar.html %}
 
-  {% include head.html %}
-
-  <body>
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include lang_sel.html %}
-
-  </body>
-
-</html>
+<div class="w3-main" style="margin-left:300px;margin-top:43px;">
+  {{ content }}
+</div>
+{% include end.html %}
