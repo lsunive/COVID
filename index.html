@@ -1,1 +1,24 @@
-NUOVO TEST
+---
+layout: default
+---
+
+this is the content
+
+
+<br>+++<br>
+{% for category in site.categories %}
+   {{ category | first | strip_html }}
+{% endfor %}
+<br>+++<br>
+
+##################
+<br>+++<br>
+{% for page in site.pages %}
+
++{{page.name}}+++{{page.path}}<br>
+
+{% endfor %}
+<br>+++<br>
+
+
+{{site.collections}}

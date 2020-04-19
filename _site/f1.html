@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+</head> 
+
+  
+
+    <div class="page-content">
+      <div class="wrapper">
+        <div class="en">
+
+this is the content of focus 1
+
+</div>
+
+<div class="it">
+
+questo e' il contenuto di focus 1
+</div>
+
+      </div>
+
+      <hr>
+
+
+
+
+
+
+
+
+
+
+
+
++page1f1.md+++f1/page1f1.md<br>
+
+
+
+
+
+
+
+
+
+    </div>
+
+<a href="?lang=it">IT</a>
+<a href="?lang=en">EN</a>
+
+<script>
+  $( "#lang_sel_it" ).click(function() {
+    $(".en").hide();
+    $(".it").show();
+  });
+  $( "#lang_sel_en" ).click(function() {
+    $(".it").hide();
+    $(".en").show();
+  });
+
+  function GetURLParameter(sParam)
+	{
+	    var sPageURL = window.location.search.substring(1);
+	    var sURLVariables = sPageURL.split('&');
+	    for (var i = 0; i < sURLVariables.length; i++)
+	    {
+	        var sParameterName = sURLVariables[i].split('=');
+	        if (sParameterName[0] == sParam)
+	        {
+	            return sParameterName[1];
+	        }else{
+              return "it"
+          }
+	    }
+	}
+console.log(GetURLParameter('lang'))
+if (GetURLParameter('lang') == 'en'){$(".it").hide(); $(".en").show();}
+if (GetURLParameter('lang') == 'it'){$(".en").hide(); $(".it").show();}
+
+</script>
+
+  </body>
+
+</html>
