@@ -10,7 +10,7 @@ categories: searches
     <a href="https://csl.sony.fr/team/giulio-prevedello/">Giulio Prevedello </a><sup>1</sup>,
     <a href="https://csl.sony.fr/team/dr-annette-werth/">Annette Werth </a><sup>1</sup>,
     <a href="https://csl.sony.fr/team/prof-vittorio-loreto/">Vittorio Loreto </a><sup>1,2,3</sup><br>
-    <sup>1</sup> <small><a href="https://csl.sony.fr/">SONY Computer Science Lab - Pari</a></small><br>
+    <sup>1</sup> <small><a href="https://csl.sony.fr/">SONY Computer Science Lab - Paris</a></small><br>
     <sup>2</sup> <small>Sapienza - University of Rome</small><br>
     <sup>3</sup> <small>Complexity Science Hub Vienna</small>
   </header>
