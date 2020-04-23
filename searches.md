@@ -4,6 +4,7 @@ categories: searches
 logo: <i class="fa fa-search fa-fw"></i> 
 title_it:  Quello che le persone vogliono (sapere)
 title_en:  What people want (to know)
+color: teal
 ---
 
 <div class="en">
