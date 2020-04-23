@@ -4,7 +4,7 @@ categories: searches
 ---
 
 <div class="en">
-  <header class="w3-container" style="padding-top:22px; text-align: center;">
+  <header class="w3-container my-header" >
     <h1><b> <i class="fa fa-users fa-fw"></i>  What people want (to know)</b> <i class="fa fa-search fa-fw"></i></h1>
     <a href="https://csl.sony.fr/team/dr-pietro-gravino/">Pietro Gravino</a> <sup>1</sup>,
     <a href="https://csl.sony.fr/team/giulio-prevedello/">Giulio Prevedello </a><sup>1</sup>,
