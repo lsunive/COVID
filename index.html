@@ -13,7 +13,6 @@ layout: default
     Facendo seguito a queste ed altre specifiche attività di studio e ricerca svolte in materia di disinformazione online e big data,  la task force di data science costituitasi in occasione dell’emergenza epidemiologica da Covid-19 coinvolge prestigiosi centri di ricerca e istituzioni accademiche, tra cui il Dipartimento di Fisica dell’Università di Roma “La Sapienza”, l’Istituto Enrico Fermi di Roma, l’Istituto dei Sistemi Complessi del Consiglio Nazionale delle Ricerche, il laboratorio di ricerca SONY Computer Science Lab di Parigi, il Research Institute for Complexity dell’Università Ca’ Foscari di Venezia. 
     L’obiettivo è quello di svolgere analisi e ricerche sul fenomeno della disinformazione e sugli effetti sociali ed economici prodotti dalle informazioni, vere e false, sul virus e la sua diffusione. Ciò consentirà al regolatore di dotarsi di servizi e strumenti specifici di analisi e monitoraggio dell’offerta e della domanda di informazione sui social media durante l’emergenza COVID-19, su cui è attualmente in corso una rapida fase di ricognizione, volta alla ricerca delle migliori soluzioni disponibili sul mercato.
     Si evidenzia che i componenti della task force non ricevono compensi dall’Autorità per le attività di ricerca svolte in tale contesto. 
-    <h5>Istituzioni partecipanti:</h5>
 </div>
 
 <div class="en">
@@ -27,6 +26,36 @@ layout: default
     L’obiettivo è quello di svolgere analisi e ricerche sul fenomeno della disinformazione e sugli effetti sociali ed economici prodotti dalle informazioni, vere e false, sul virus e la sua diffusione. Ciò consentirà al regolatore di dotarsi di servizi e strumenti specifici di analisi e monitoraggio dell’offerta e della domanda di informazione sui social media durante l’emergenza COVID-19, su cui è attualmente in corso una rapida fase di ricognizione, volta alla ricerca delle migliori soluzioni disponibili sul mercato.
     Si evidenzia che i componenti della task force non ricevono compensi dall’Autorità per le attività di ricerca svolte in tale contesto. 
 
+</div>
+
+<div class="it">
+    <h5>Focus di ricerca:</h5>
+</div>
+<div class="en">
+    <h5>Research focus:</h5>
+</div>
+{% for p in site.pages %}
+{% if p.layout == 'focus' %}
+
+
+<a onclick="window.location='{{p.url}}'+window.location.search;">
+ <div class="w3-bar-item w3-button w3-green" style="margin: 10px 0; font-size: 1.2em;">
+   {{p.logo}}
+   <span class="it">{{p.title_it}} </span>
+   <span class="en">{{p.title_en}} </span>
+ </div>
+</a>
+
+
+{% endif %}
+{% endfor %}
+
+
+<div class="it">
+    <h5>Istituzioni partecipanti:</h5>
+</div>
+<div class="en">
+    <h5>TO TRANSALTE: Istituzioni partecipanti:</h5>
 </div>
 
 <div class="logo_container">

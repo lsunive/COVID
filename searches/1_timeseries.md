@@ -1,17 +1,19 @@
 ---
 layout: default
 categories: searches
+logo:
+title_it: L'evoluzione delle Ricerche nel tempo
+title_en: Searches Evolution over Time
 ---
 
 
 <div class="en">
-  <h3>Searches Evolution over Time</h3>
   <p>
     In the following graph, we show the evolution in time of the <i>Searches</i> index, nationwide and for each region. The value has to be interpreted as an average, so it does not depend on the regional population. In other words, it represents how much the average person of a certain region would search for the term "coronavirus". By clicking on the region’s name in the legend, you can show or hide the index’s evolution for that region. Also, by clicking on the intervention dropdown list, you can overlay the timelines of the various types of interventions taken by the government.
   </p>
 </div>
 <div class="it">
-  <h3>L'evoluzione delle Ricerche nel tempo</h3>
+  <h3></h3>
   <p>
     Nel grafico seguente, mostriamo l'evoluzione nel tempo dell'indice <i> Ricerche </i>, a livello nazionale e per ciascuna regione. Il valore deve essere interpretato come una media, quindi non dipende dalla popolazione regionale. In altre parole, rappresenta quanto la persona media di una determinata regione cercherebbe il termine "coronavirus". Facendo clic sul nome della regione nella legenda, puoi mostrare o nascondere l'evoluzione dell'indice per quella regione. Inoltre, facendo clic sul menu degli interventi, è possibile sovrapporre le tempistiche dei vari tipi dei interventi adottati dal governo.
   </p>

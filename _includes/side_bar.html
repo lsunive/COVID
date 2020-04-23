@@ -11,11 +11,33 @@
  <h5>Focus</h5>
  <!--    <a href="#intro" class="w3-bar-item w3-button w3-padding"> Introduction</a>
  -->
- <a onclick="window.location='searches.html'+window.location.search;">
-   <div class="w3-bar-item w3-button w3-green" style="margin: 10px 0; font-size: 1.2em;">
-     <i class="fa fa-search fa-fw"></i> <span class="it">Quello che le persone vogliono (sapere) </span><span class="en">What people want (to know) </span>
-   </div>
- </a>
+
+ {% for p in site.pages %}
+ {% if p.layout == 'focus' %}
+  <a onclick="window.location='{{p.url}}'+window.location.search;">
+  <div class="w3-bar-item w3-button w3-green" style="margin: 10px 0 0 0; font-size: 1.2em;">
+    {{p.logo}}
+    <span class="it">{{p.title_it}} </span>
+    <span class="en">{{p.title_en}} </span>
+  </div>
+  </a>
+  {% if page.layout == 'focus' %}
+   {% for p2 in site.pages %}
+    {% if p2.layout == 'default' and p2.categories == page.categories %}
+    <a onclick="window.location='#{{p2.name | slice: 0,5}}';">
+      <div class="w3-bar-item w3-button">
+        {{p2.logo}}
+        <span class="it">{{p2.title_it}} </span>
+        <span class="en">{{p2.title_en}} </span>
+      </div>
+    </a>
+    {% endif %}
+   {% endfor %}
+  {% endif %}
+ {% endif %}
+ {% endfor %}
+
+ <!--
  <a onclick="window.location='f2.html'+window.location.search;">
    <div class="w3-bar-item w3-button w3-teal" style="margin: 10px 0; font-size: 1.2em;">
      <i class="fa fa-comments fa-fw"></i> <span class="it"> Focus 2 italiano</span><span class="en"> Focus 2 english </span> 
@@ -26,7 +48,8 @@
      <i class="fa fa-comments fa-fw"></i> <span class="it"> Focus 3 italiano</span><span class="en"> Focus 3 english </span> 
    </div>
  </a>
- </div>
+-->
+</div>
  <!--
 <div class="w3-container w3-bar-block" style="font-size: .9em;">
   <h5>

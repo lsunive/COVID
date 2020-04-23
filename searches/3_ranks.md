@@ -1,24 +1,22 @@
 ---
 layout: default
 categories: searches
+logo:
+title_it: Le classifiche delle ricerche specifiche
+title_en: Ranks of Related Searches
 ---
 
 
 <div class="en">
-
-<h3>Ranks of Related Searches</h3>
-     <p>
+    <p>
      As the previous panel showed regional differences, we seek to understand whether these may correspond to different more specific information needs associated with the term "Coronavirus".
      In the following figure, we investigate the searches of coronavirus-related queries, at national and regional level, and how their weekly ranking evolves over time. Note that Google Trends’ data were preprocessed to merge different keywords pointing at a semantically same query.
     </p>
 </div>
 <div class="it">
-
-<h3>Le classifiche delle ricerche specifiche</h3>
      <p>
       Il grafico precedente ha mostrato le differenze regionali. Cerchiamo ora di capire se queste possono corrispondere a diverse ricerche piu' specifiche, ovvero particolari esigenze di informazione associate al termine "coronavirus".
       Nella figura seguente, indaghiamo le ricerche specifiche associate al termine "coronavirus", a livello nazionale e regionale, e come la loro classifica settimanale evolve nel tempo. Tieni presente che i dati di Google Trends sono stati preelaborati per unire diverse parole chiave che puntano a una stessa sfumatura semanticamente.
-
     </p>
 </div>
 

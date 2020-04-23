@@ -1,19 +1,20 @@
 ---
 layout: default
 categories: searches
+logo:
+title_it: La Geografia delle <i>Ricerche</i>
+title_en: The Geographical Evolution of Searches
 ---
 
 
 <div class="en">
 
-<h3>The Geographical Evolution of Searches</h3>
 <p>
 It is also interesting to see how the google searches of the term `coronavirus` spread throughout the country. The virus first spread significantly in Lombardy which resulted in earlier and stricter measures than the rest of Italy. Indeed the geographical presence of the COVID crisis seems to impact on people’s search attitudes. The following animation shows precisely the regional searches over time.
 </p>
 </div>
 <div class="it">
 
-<h3> La Geografia delle <i>Ricerche</i></h3>
 <p>
 Andiamo ora a vedere come le ricerche su Google del termine "coronavirus" si sono diffuse in tutto il paese. Il virus si è diffuso significativamente per la prima volta in Lombardia, il che ha portato a misure precedenti e più rigorose rispetto al resto d'Italia. In effett la presenza geografica della crisi COVID sembra avere un impatto sugli atteggiamenti di ricerca delle persone. La seguente animazione mostra precisamente le ricerche regionali nel tempo.
 </p>

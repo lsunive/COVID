@@ -3,13 +3,20 @@
 {% include side_bar.html %}
   <div class="w3-main my-main">
 
-
+    
+      <header class="w3-container my-header" >
+        <h1><b>  <div class="en">{{ page.logo }}{{ page.title_en }}</div><div class="it">{{ page.logo }}{{ page.title_it }}</div> </b> </h1>
+      </header>
+      
       {{ content }}
 
       {% for p in site.pages %}
       {% if p.categories == page.categories and p.name != page.name%}
+      <a name='{{p.name | slice: 0,5}}'></a> 
       <hr>
       <div class="w3-container">
+        <h3><b>  <div class="en">{{ p.logo }}{{ p.title_en }}</div><div class="it">{{ p.logo }}{{ p.title_it }}</div> </b> </h3>
+        
       {{p.content}}
       </div>
       {% endif %}
