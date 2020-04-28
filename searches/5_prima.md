@@ -1,6 +1,6 @@
 ---
 layout: default
-categories: social_media
+categories: searches
 logo:
 title_it: Prima di iniziare
 title_en: Before Starting
