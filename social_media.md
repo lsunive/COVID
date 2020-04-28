@@ -22,7 +22,6 @@ color: red
     <sup>3</sup> <small>Ospedale Pediatrico Bambino Gesù, Roma</small>
     <sup>4</sup> <small>Center for the Humanities and Social Change, Venezia</small>
     </div>
-    
     <p> Una delle sfide poste dall’emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. 
     In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti su COVID-19 sulle principali piattaforme social a partire dal 1° gennaio 2020.
     </p>
@@ -43,8 +42,7 @@ color: red
     <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca’ Foscari di Venezia</a></small>
     <sup>3</sup> <small>Ospedale Pediatrico Bambino Gesù, Roma</small>
     <sup>4</sup> <small>Center for the Humanities and Social Change, Venezia</small>
-    </div>
-    
+    </div>    
     <p> Una delle sfide poste dall’emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. 
     In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti su COVID-19 sulle principali piattaforme social a partire dal 1° gennaio 2020.
     </p>
