@@ -1,6 +1,6 @@
 ---
 layout: focus
-categories: searches
+categories: social_media
 logo: <i class="fa fa-search fa-fw"></i> 
 title_it:  Il dibattito pubblico sui social media
 title_en:  The Public Debate on Social Media
