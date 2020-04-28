@@ -4,7 +4,6 @@ categories: searches
 logo:
 title_it: Prima di iniziare
 title_en: Before Starting
-color: red
 ---
 
 <div class="en">
