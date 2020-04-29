@@ -29,8 +29,9 @@ title_en: What do the users think?
 	</p>
 </div>
 
-<div class="w3-white w3-card-4 w3-center">
-    {% include figures/4_overperforming.html %}
+<div>
+    <a href="https://plotly.com/~alschm88904/46/?share_key=r53Crr65lGlUBCZXrjSgz9" target="_blank" title="Plot 46" style="display: block; text-align: center;"><img src="https://plotly.com/~alschm88904/46.png?share_key=r53Crr65lGlUBCZXrjSgz9" alt="Plot 46" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="alschm88904:46" sharekey-plotly="r53Crr65lGlUBCZXrjSgz9" src="https://plotly.com/embed.js" async></script>
 </div>
 
 <div class="en">
@@ -43,8 +44,4 @@ title_en: What do the users think?
 	<p>
 	Analizziamo, infine, le reazioni degli utenti Facebook ai contenuti su COVID-19. La Figura 6 illustra la percentuale di utenti che hanno lasciato una certa reazione (tra “mi piace”, “love”, “wow”, “haha”, “sigh”, “grrr”) a post pubblicati da <b>fonti di informazione (linea tratteggiata)</b> e a post pubblicati da <b>fonti di disinformazione (linea compatta)</b>. La distribuzione delle reazioni ai post delle due tipologie di fonti è comparabile, sebbene sia possibile osservare una netta preferenza degli utenti a reagire esprimendo la propria rabbia rispetto ai contenuti delle fonti di disinformazione.  
 	</p>
-</div>
-
-<div class="w3-white w3-card-4 w3-center">
-    {% include figures/4_reactions.html %}
 </div>
