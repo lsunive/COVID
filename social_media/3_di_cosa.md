@@ -19,7 +19,7 @@ title_en: What do they talk about?
 </div>
 
 <div class="w3-white w3-card-4 w3-center">
-    <div class="plot"> <img src="assets/images/3_wordcloud.png"> </div>
+    <div class="plot"> <img width="700" src="assets/images/3_wordcloud.png"> </div>
 </div>
 
 <div class="en">
@@ -47,8 +47,12 @@ title_en: What do they talk about?
 </div>
 
 <div>
-	<p><MISSING FACEBOOK TOPIC FIGURE</p>
+	<p align="center">
+	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/3_fb_topic.html"></iframe>
+	</p>
 </div>
 <div>
-	<p><MISSING TWITTER TOPIC FIGURE </p>
+	<p align="center">
+	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/3_tw_topic.html"></iframe>
+	</p>
 </div>
