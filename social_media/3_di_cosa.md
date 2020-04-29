@@ -20,7 +20,7 @@ title_en: What do they talk about?
 
 <div>
 	<p align="center">
-		<img width="700" src="assets/images/3_wordcloud.png">
+		<img width="800" src="assets/images/3_wordcloud.png">
 	</p>
 </div>
 
