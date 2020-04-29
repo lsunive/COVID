@@ -72,4 +72,6 @@ title_en: Who talks about coronavirus? How much?
 	</p>
 </div>
 
-<div><MISSING TWITTER COVID CONTENT FIGURE/div>
+<div>
+	<p>MISSING TWITTER COVID CONTENT FIGURE</p>
+</div>
