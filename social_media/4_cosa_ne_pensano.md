@@ -52,6 +52,7 @@ title_en: What do the users think?
 </div>
 
 <div> 
+	2 plots
 	<iframe style="width: 100%; height: 900px; border: none;" src="assets/images/4_reactions.html"></iframe>
 </div>
 
