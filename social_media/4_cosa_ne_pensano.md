@@ -30,8 +30,9 @@ title_en: What do the users think?
 </div>
 
 <div>
-    <a href="https://plotly.com/~alschm88904/48/?share_key=2ctdiWYeYzk9rtNSnZ7IAu" target="_blank" title="4_overperforming" style="display: block; text-align: center;"><img src="https://plotly.com/~alschm88904/48.png?share_key=2ctdiWYeYzk9rtNSnZ7IAu" alt="4_overperforming" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="alschm88904:48" sharekey-plotly="2ctdiWYeYzk9rtNSnZ7IAu" src="https://plotly.com/embed.js" async></script>
+	<p align="center">
+	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/4_overperforming.html"></iframe>
+	</p>
 </div>
 
 <div class="en">
