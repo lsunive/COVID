@@ -54,11 +54,7 @@ title_en: Who talks about coronavirus? How much?
 	</p>
 </div>
 
-<div>
-    <a href="https://plotly.com/~alschm88904/54/?share_key=ifYi5RcEdCFvXeZYNxV02U" target="_blank" title="2_covid_content" style="display: block; text-align: center;"><img src="https://plotly.com/~alschm88904/54.png?share_key=ifYi5RcEdCFvXeZYNxV02U" alt="2_covid_content" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="alschm88904:54" sharekey-plotly="ifYi5RcEdCFvXeZYNxV02U" src="https://plotly.com/embed.js" async></script>
-</div>
-
+<iframe style="width: 1000px; height: 600px; border: none;" src="assets/images/2_fb_covid_content.html"></iframe>
 
 <div class="en">
 	<p>
