@@ -46,14 +46,9 @@ title_en: What do the users think?
 	</p>
 </div>
 
-<div><p>this is the one in chart studio</p></div>
-<div>
-    <a href="https://plotly.com/~alschm88904/51/?share_key=v2ApDThU8F8sLvpXBwUI7g" target="_blank" title="4_reactions" style="display: block; text-align: center;"><img src="https://plotly.com/~alschm88904/51.png?share_key=v2ApDThU8F8sLvpXBwUI7g" alt="4_reactions" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="alschm88904:51" sharekey-plotly="v2ApDThU8F8sLvpXBwUI7g" src="https://plotly.com/embed.js" async></script>
-</div>
-
-<div><p>this is the one in assets</p></div>
 <div> 
-	<iframe style="width: 1000px; height: 400px; border: none;" src="assets/images/4_reactions.html"></iframe>
+	<p align="center">
+	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/4_reactions.html"></iframe>
+	</p>
 </div>
 
