@@ -57,7 +57,7 @@ title_en: Who talks about coronavirus? How much?
 
 <div>
 	<p align="center">
-	<iframe style="width: 1000px; height: 600px; border: none;" src="assets/images/2_fb_covid_content.html"></iframe>
+	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/2_fb_covid_content.html"></iframe>
 	</p>
 </div>
 
@@ -74,5 +74,8 @@ title_en: Who talks about coronavirus? How much?
 </div>
 
 <div>
-	<p>MISSING TWITTER COVID CONTENT FIGURE</p>
+	<p align="center">
+	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/2_tw_covid_content.html"></iframe>
+	</p>
 </div>
+
