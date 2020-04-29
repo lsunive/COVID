@@ -3,7 +3,7 @@ layout: focus
 categories: social_media
 logo: <i class="fa fa-search fa-fw"></i> 
 title_it:  Il dibattito pubblico sui social media
-title_en:  The Public Debate on Social Media
+title_en:  The public debate on social media
 color: red
 ---
 
@@ -23,8 +23,8 @@ color: red
     <sup>4</sup> <small>Center for the Humanities and Social Change, Venezia</small>
     </div>
     <br><br>
-    <p> Una delle sfide poste dall’emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. 
-    In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti su COVID-19 sulle principali piattaforme social a partire dal 1° gennaio 2020.
+    <p> 
+	Una delle sfide poste dall’emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti sul coronavirus sulle principali piattaforme social a partire dal 1° gennaio 2020.
     </p>
   </div>
 </div>
@@ -45,8 +45,8 @@ color: red
     <sup>4</sup> <small>Center for the Humanities and Social Change, Venezia</small>
     </div>    
     <br><br>
-    <p> Una delle sfide poste dall’emergenza sanitaria in corso consiste nel comprendere come le persone si informano, selezionano e percepiscono i contenuti e, possibilmente, come questo incide sulle loro decisioni. 
-    In questo report, <b>aggiornato periodicamente</b>, proviamo a delineare lo scenario informativo su COVID-19 caratterizzando la diffusione e la percezione di notizie e contenuti su COVID-19 sulle principali piattaforme social a partire dal 1° gennaio 2020.
+    <p>
+	One of the challenges in the ongoing medical emergency is to understand how people get informed, select and perceive information and, possibly, how this influences their decisions. In this report, which will be <b>updated periodically</b>, we aim to outline the information scenery on COVID-19 characterizing news spreading and perception on coronavirus on the main social media platforms starting from January, 1st 2020.
     </p>
   </div>
 </div>
