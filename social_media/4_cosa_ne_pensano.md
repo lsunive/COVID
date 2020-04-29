@@ -52,14 +52,8 @@ title_en: What do the users think?
     <script data-plotly="alschm88904:51" sharekey-plotly="v2ApDThU8F8sLvpXBwUI7g" src="https://plotly.com/embed.js" async></script>
 </div>
 
-<div><p>this is the one in figures</p></div>
-<div> 
-	2 plots
-	<iframe style="width: 100%; height: 900px; border: none;" src="_includes/figures/4_reactions.html"></iframe>
-</div>
 <div><p>this is the one in assets</p></div>
 <div> 
-	2 plots
-	<iframe style="width: 100%; height: 900px; border: none;" src="assets/images/4_reactions.html"></iframe>
+	<iframe style="width: 1000px; height: 400px; border: none;" src="assets/images/4_reactions.html"></iframe>
 </div>
 
