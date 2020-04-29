@@ -54,3 +54,7 @@ title_en: What do the users think?
 <div> 
 	<iframe style="width: 100%; height: 900px; border: none;" src="figures/4_reactions.html"></iframe>
 </div>
+
+<div>
+	<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alschm88904/51.embed"></iframe>
+</div>
