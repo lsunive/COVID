@@ -30,8 +30,8 @@ title_en: What do the users think?
 </div>
 
 <div>
-    <a href="https://plotly.com/~alschm88904/46/?share_key=r53Crr65lGlUBCZXrjSgz9" target="_blank" title="Plot 46" style="display: block; text-align: center;"><img src="https://plotly.com/~alschm88904/46.png?share_key=r53Crr65lGlUBCZXrjSgz9" alt="Plot 46" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
-    <script data-plotly="alschm88904:46" sharekey-plotly="r53Crr65lGlUBCZXrjSgz9" src="https://plotly.com/embed.js" async></script>
+    <a href="https://plotly.com/~alschm88904/48/?share_key=2ctdiWYeYzk9rtNSnZ7IAu" target="_blank" title="4_overperforming" style="display: block; text-align: center;"><img src="https://plotly.com/~alschm88904/48.png?share_key=2ctdiWYeYzk9rtNSnZ7IAu" alt="4_overperforming" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="alschm88904:48" sharekey-plotly="2ctdiWYeYzk9rtNSnZ7IAu" src="https://plotly.com/embed.js" async></script>
 </div>
 
 <div class="en">
@@ -44,4 +44,9 @@ title_en: What do the users think?
 	<p>
 	Analizziamo, infine, le reazioni degli utenti Facebook ai contenuti su COVID-19. La Figura 6 illustra la percentuale di utenti che hanno lasciato una certa reazione (tra “mi piace”, “love”, “wow”, “haha”, “sigh”, “grrr”) a post pubblicati da <b>fonti di informazione (linea tratteggiata)</b> e a post pubblicati da <b>fonti di disinformazione (linea compatta)</b>. La distribuzione delle reazioni ai post delle due tipologie di fonti è comparabile, sebbene sia possibile osservare una netta preferenza degli utenti a reagire esprimendo la propria rabbia rispetto ai contenuti delle fonti di disinformazione.  
 	</p>
+</div>
+
+<div>
+    <a href="https://plotly.com/~alschm88904/51/?share_key=v2ApDThU8F8sLvpXBwUI7g" target="_blank" title="4_reactions" style="display: block; text-align: center;"><img src="https://plotly.com/~alschm88904/51.png?share_key=v2ApDThU8F8sLvpXBwUI7g" alt="4_reactions" style="max-width: 100%;width: 1000px;"  width="1000" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="alschm88904:51" sharekey-plotly="v2ApDThU8F8sLvpXBwUI7g" src="https://plotly.com/embed.js" async></script>
 </div>
