@@ -54,7 +54,7 @@ title_en: Who Talks about Coronavirus? How much?
 	</p>
 </div>
 
-<div class="w3-white w3-card-4 w3-center" >
+<div class="w3-white w3-card-4 w3-center">
     {% include figures/2_fb_covid_content.html %}
 </div>
 
@@ -70,6 +70,6 @@ title_en: Who Talks about Coronavirus? How much?
 	</p>
 </div>
 
-<div class="w3-white w3-card-4 w3-center" >
+<div class="w3-white w3-card-4 w3-center">
     {% include figures/2_tw_covid_content.html %}
 </div>
