@@ -46,10 +46,9 @@ title_en: What do they talk about?
     </p>
 </div>
 
-<div class="w3-white w3-card-4 w3-center">
-    {% include figures/3_fb_topic.html %}
+<div>
+	<p><MISSING FACEBOOK TOPIC FIGURE</p>
 </div>
-
-<div class="w3-white w3-card-4 w3-center">
-    {% include figures/3_tw_topic.html %}
+<div>
+	<p><MISSING TWITTER TOPIC FIGURE </p>
 </div>
