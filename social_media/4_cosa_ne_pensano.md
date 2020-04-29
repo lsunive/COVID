@@ -56,5 +56,6 @@ title_en: What do the users think?
 </div>
 
 <div>
+	three figures
 	<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~alschm88904/51.embed"></iframe>
 </div>
