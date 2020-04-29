@@ -19,7 +19,8 @@ title_en: What do they talk about?
 </div>
 
 <div class="w3-white w3-card-4 w3-center">
-    {% include figures/3_wordcloud.html %}
+    <div class="plot"> <img src="assets/images/3_fb_wordcloud.png"> </div>
+    <div class="plot"> <img src="assets/images/3_tw_wordcloud.png"> </div>
 </div>
 
 <div class="en">
