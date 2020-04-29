@@ -52,6 +52,6 @@ title_en: What do the users think?
 </div>
 
 <div> 
-	<iframe style="width: 100%; height: 900px; border: none;" src="assets/image/4_reactions.html"></iframe>
+	<iframe style="width: 100%; height: 900px; border: none;" src="assets/images/4_reactions.html"></iframe>
 </div>
 
