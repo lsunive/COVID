@@ -31,7 +31,7 @@ title_en: What do the users think?
 
 <div> 
 	<p align="center">
-	<iframe border: none;" src="assets/images/4_overperforming.html"></iframe>
+	<iframe src="assets/images/4_overperforming.html"></iframe>
 	</p>
 </div>
 
@@ -49,7 +49,7 @@ title_en: What do the users think?
 
 <div> 
 	<p align="center">
-	<iframe border: none;" src="assets/images/4_reactions.html"></iframe>
+	<iframe src="assets/images/4_reactions.html"></iframe>
 	</p>
 </div>
 
