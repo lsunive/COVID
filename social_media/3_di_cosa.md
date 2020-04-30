@@ -50,11 +50,11 @@ title_en: What do they talk about?
 
 <div>
 	<p align="center">
-	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/3_fb_topic.html"></iframe>
+	<iframe style="width: 1100px; height: 500px; border: none;" src="assets/images/3_fb_topic.html"></iframe>
 	</p>
 </div>
 <div>
 	<p align="center">
-	<iframe style="width: 1000px; height: 500px; border: none;" src="assets/images/3_tw_topic.html"></iframe>
+	<iframe style="width: 1100px; height: 500px; border: none;" src="assets/images/3_tw_topic.html"></iframe>
 	</p>
 </div>
