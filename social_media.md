@@ -15,13 +15,13 @@ color: red
     Eleonora Grassucci <sup>3</sup>,
     Antonio Scala <sup>1</sup>,
     Walter Quattrociocchi <sup>3</sup>,
-    Fabiana Zollo <sup>2,4,@</sup><br>
+    Fabiana Zollo <sup>2,4,+</sup><br>
     *<small> Questi autori hanno contribuito equamente allo studio.</small><br>
-    <sup>@</sup><small><a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small><br>
     <sup>1</sup> <small><a href="https://www.isc.cnr.it/">Istituto dei sistemi complessi, Roma</a></small>
     <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca’ Foscari di Venezia</a></small>
     <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it/home">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
-    <sup>4</sup> <small><a href="https://hscif.org/venice/">Center for the Humanities and Social Change, Venezia</a></small> 
+    <sup>4</sup> <small><a href="https://hscif.org/venice/">Center for the Humanities and Social Change, Venezia</a></small><br>
+    <sup>+</sup><small><a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
     </div>
     <br><br>
     <p> 
