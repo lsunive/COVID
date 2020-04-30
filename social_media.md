@@ -21,7 +21,7 @@ color: red
     <sup>2</sup> <small><a href="https://www.unive.it/">Università Ca’ Foscari di Venezia</a></small>
     <sup>3</sup> <small><a href="http://www.ospedalebambinogesu.it/home">Ospedale Pediatrico Bambino Gesù, Roma</a></small>
     <sup>4</sup> <small><a href="https://hscif.org/venice/">Center for the Humanities and Social Change, Venezia</a></small><br>
-    <sup>+</sup><small><a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
+    <sup>+</sup><small>e-mail: <a href="fabiana.zollo@unive.it">fabiana.zollo@unive.it</a></small>
     </div>
     <br><br>
     <p> 
